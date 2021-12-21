@@ -15,7 +15,7 @@ optimized checker and discord nitro generator
 
 ## Usage
 
-1 Сhange to your webhook
+1) Сhange to your webhook
    ```sh
    # In main.py:
    webhook = "https://discord.com/api/webhooks/webhook" #You webhook
